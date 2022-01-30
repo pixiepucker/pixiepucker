@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pixiepucker
+- 🖖🏼 Hi, I’m @pixiepucker
 - 👀 I’m interested in coding, gaming, music.
 - 🌱 I’m currently studying to be a full stack dev.
-- 💞️ I’m looking to collaborate on maybe ROM hacks, modding games, etc.
-- 📫 How to reach me: my gaming twitter is @pixiepucker !!
+- 🚩 I’m looking to collaborate on maybe ROM hacks, modding games, etc.
+- 📫 How to reach me: my twitter is @pixiepucker !!
 
 <!---
 pixiepucker/pixiepucker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
