@@ -1,7 +1,7 @@
-- 🖖🏼 Hi, I’m @pixiepucker/Autumn L. Cain (they/she/he)
+- 🖖🏼 Hi, I’m @pixiepucker/Autumn L. Yarborough-Cain (they/she/he)
 - 👀 I’m interested in coding, gaming, music.
-- 🌱 I’m currently studying to be a full stack dev.
-- 🚩 I’m looking to collaborate on ROM hacks, modding games, etc.
+- 🌱 I’m currently studying to be a full stack dev and computer engineer.
+- ✨ I’m looking to collaborate on ROM hacks, modding games, etc.
 - 📫 How to reach me: my twitter is @pixiepucker !!
 
 <!---
